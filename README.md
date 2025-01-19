@@ -1,4 +1,7 @@
-![](planit%20icon.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/823da6bb-9faf-4484-ae33-e5a54abd04f7">
+</p>
+
 <h1 align="center">
   Planit
 </h1>
@@ -70,6 +73,4 @@ https://github.com/user-attachments/assets/35872f1d-e268-4469-bb6b-64221fa1d643
 - 새 카테고리 생성
   
 ![image](https://github.com/user-attachments/assets/d399b139-6e39-43d1-aa44-f15f2e083477)
-  
-
-
+ 
